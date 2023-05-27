@@ -1,10 +1,10 @@
 {
-  "name": "web31",
+  "name": "JSLocal",
   "version": "0.0.0",
-  "description": "web31",
+  "description": "JSLocal",
   "main": "server.js",
   "author": {
-    "name": ""
+    "name": "Treff"
   },
   "devDependencies": {
     "eslint": "^8.41.0"
