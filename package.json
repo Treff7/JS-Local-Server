@@ -1,0 +1,13 @@
+{
+  "name": "web31",
+  "version": "0.0.0",
+  "description": "web31",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.41.0"
+  },
+  "eslintConfig": {}
+}
